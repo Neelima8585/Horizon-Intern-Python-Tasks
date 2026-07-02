@@ -13,7 +13,7 @@ Horizon-Intern-Python-Tasks/
 │   ├── main.py
 │   └── screenshots/                          
 │
-├── Guessing_Game/
+├── Number_Guessing_Game/
 │   ├── main.py
 │   └── screenshots/                          
 │
