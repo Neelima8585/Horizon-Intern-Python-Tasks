@@ -71,7 +71,7 @@ A file-based Student Management System developed using Python.
 - Add Student
 - View Students
 - Search Student
-- Update Student
+- Update Student Name & Grade
 - Delete Student
 - File Handling using `students.txt`
 - Duplicate Roll Number validation
@@ -91,6 +91,7 @@ A file-based Student Management System developed using Python.
 - Exception Handling
 - `math` module
 - `random` module
+-  `os` module
 
 ---
 
